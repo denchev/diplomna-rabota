@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "domparser": "^0.1.1",
+    "fast-csv": "^5.0.7",
+    "playwright": "^1.60.0"
+  }
+}

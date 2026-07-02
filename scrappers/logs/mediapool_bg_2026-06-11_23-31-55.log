@@ -1,0 +1,11 @@
+2026-06-11 23:31:55 | INFO | mediapool_bg_2026-06-11_23-31-55 | Starting scrape mode | source=mediapool_bg | session=2026-06-11_23-31-55
+2026-06-11 23:31:55 | INFO | mediapool_bg_2026-06-11_23-31-55 | Loaded 1 category URL(s) for mediapool_bg
+2026-06-11 23:31:57 | ERROR | mediapool_bg_2026-06-11_23-31-55 | Unexpected error in scrape mode | source=mediapool_bg | error=BrowserType.launch: Executable doesn't exist at /Users/mdenchev/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝

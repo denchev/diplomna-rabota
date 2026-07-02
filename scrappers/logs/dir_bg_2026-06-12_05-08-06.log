@@ -1,0 +1,7 @@
+2026-06-12 05:08:06 | INFO | dir_bg_2026-06-12_05-08-06 | Starting scrape mode | source=dir_bg | session=2026-06-12_05-08-06
+2026-06-12 05:08:06 | INFO | dir_bg_2026-06-12_05-08-06 | Initialising dir.bg receiver server | session=2026-06-12_05-08-06 | host=127.0.0.1 | port=5000
+2026-06-12 05:08:06 | INFO | dir_bg_2026-06-12_05-08-06 | Loaded 1 category URL(s) into queue
+2026-06-12 05:08:06 | INFO | dir_bg_2026-06-12_05-08-06 | CSV writer opened | path=/Users/mdenchev/Downloads/marush_denchev_comments_scraper/output/dir_bg_data_2026-06-12_05-08-06.csv
+2026-06-12 05:08:06 | INFO | dir_bg_2026-06-12_05-08-06 | Inactivity watchdog started | timeout=300s
+2026-06-12 05:08:17 | INFO | dir_bg_2026-06-12_05-08-06 | CSV writer closed
+2026-06-12 05:08:17 | INFO | dir_bg_2026-06-12_05-08-06 | Scrape mode finished successfully | source=dir_bg | session=2026-06-12_05-08-06

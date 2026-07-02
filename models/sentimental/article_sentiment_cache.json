@@ -1,0 +1,1267 @@
+{
+  "39f424658ab64511011d888a3c64ae525147614e60d262081ec7494b5efe6f02": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "тревога"
+  },
+  "122cdacc556ec970e98271ccdd0eb9f4e8124c2aba2f6e2c7be821bbb2fc9952": {
+    "sentiment": "Негативен",
+    "confidence": 0.92,
+    "dominant_emotion": "тревога"
+  },
+  "928f4cd6491c8116faa3c6ba7ded3c6b536bdf27e7c039cc5095fd5788ffb008": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "спокойствие"
+  },
+  "fb389c7eb01fc5d6faf93bdb30b084615aded30539989273382b3a08580429f9": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "недоволство"
+  },
+  "70f922bbccec074857358d26f1cc7696e10c23f5b5b2d685e3f24a85cf6dcf88": {
+    "sentiment": "Негативен",
+    "confidence": 0.74,
+    "dominant_emotion": "недоволство"
+  },
+  "fde83f41f3e9afbe92b52f41a2b11c29d10af71524653c963a9924ebea7179aa": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "d04a4ec3e2cef4fbf80dfc7f29f73d732b6d2c2799c2d6223f0ab8e4a815a924": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "възмущение"
+  },
+  "1e1ec37369be4591834b12086ec3d49cc771e6c0b58e4a79f6468d6c0777424f": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "bc167869a207fd46a157104984bf7497a691363d8eeb1f07966c4362174ed939": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "тревога"
+  },
+  "e9a78704b1ba5868e4beee66a4a8b9ece5aa143eadb1ffaa3d13afbafeb27895": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "3c2a6cd29caa6297172ceecd17279011904a18496d52761f163e275b82f809f6": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "тревога"
+  },
+  "be0ce462a14356844a710ee3870ad2ba212a2700f4008854c4eed9d390508a61": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "безпристрастност"
+  },
+  "373d5ccd3e5af70703db021766f6ade4e1efcd0ac062ed6e56658ed0e4d5b919": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "тревога"
+  },
+  "fb5180dfa8570a82e1d72350aa668ee47feb87ab06d7e1c09f947a0fff1be3aa": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "тревога"
+  },
+  "6f8cb196b8a21f9ff6efaa59212722429482261137fb511bcf9dc0f8a934a9a0": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "загриженост"
+  },
+  "78776408be76aba79c404d545feb7c93c323e6118962d188bfc032b4fdbc2292": {
+    "sentiment": "Неутрален",
+    "confidence": 0.62,
+    "dominant_emotion": "загриженост"
+  },
+  "bf7b5bad96c91dc75b4cb8ab28ef4683fe0ee3ed991007718755c35d81256a9c": {
+    "sentiment": "Неутрален",
+    "confidence": 0.88,
+    "dominant_emotion": "спокойствие"
+  },
+  "0742b7b8a3e8bd6969f27f601d1fed81be32e4beb8f949e90bc35cf1c7b19d57": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "загриженост"
+  },
+  "307fdaf7636084ad2b8afcda45801a5eaddcb8f33850454c91ba2c5bd6490a21": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "7c225f95b141ee3bcd74727b22c4d1dcb939c6ba5674293e71ffcb00ff8f2a2f": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "разочарование"
+  },
+  "5a1c7195ee3f3a0e664828aa66e98e4b59fd369cbcfe2a78071e6d20cb95ec29": {
+    "sentiment": "Негативен",
+    "confidence": 0.85,
+    "dominant_emotion": "разочарование"
+  },
+  "a545a99ef5c3ca6d6b5c56dff52038fd993a9b0707b423502b2d57a3a738c4f1": {
+    "sentiment": "Негативен",
+    "confidence": 0.9,
+    "dominant_emotion": "разочарование"
+  },
+  "5c9fc0db576e59cf2b5ecf361f98ec33097de7653038dbfb6eec29c959eb0240": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "разочарование"
+  },
+  "b06a215ceb434dc7e1b71508d2a1e02bbaca10773183cc2ad3675e14144954c5": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "радост"
+  },
+  "28af818d7f4155912a5ab6724e6295a653b846888b0d3c82b617545cffaedb8c": {
+    "sentiment": "Позитивен",
+    "confidence": 0.88,
+    "dominant_emotion": "радост"
+  },
+  "5dada64da59818ad9377a9821880f37c9fe22de3ecf0d34525470f73f314e17b": {
+    "sentiment": "Позитивен",
+    "confidence": 0.78,
+    "dominant_emotion": "радост"
+  },
+  "986843d1d751cda2c28677a4b79e4a68256f4713eb86d714154ec802e7f38220": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "скръб"
+  },
+  "7f834fcd6a25d45f1c7c5fc89619ba04250e6b4ca16e750010c714d4b799dfa6": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "спокойствие"
+  },
+  "a59065b017384f406d673ecdabb594d2b8ae3216d8b35f6f3f2598329c76f0f1": {
+    "sentiment": "Позитивен",
+    "confidence": 0.93,
+    "dominant_emotion": "радост"
+  },
+  "de9a616667f3e83a1681396fae58d6e43b9e493b7d3cb630141687d5161908b1": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "удовлетворение"
+  },
+  "48787b053400ea9f55d3604aa861e36e0fdfa335e9c40d620336abdbcd1f3d4a": {
+    "sentiment": "Позитивен",
+    "confidence": 0.88,
+    "dominant_emotion": "съпричастност"
+  },
+  "c7baa0c085a88f97bf057b8c5208047872d9665c12e1c3ac574a7b841fcbe5ef": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "разочарование"
+  },
+  "2544d5b64a2a62473bb27ffe2379b87bc7562a6ca603ec20d3f50c868b95c194": {
+    "sentiment": "Позитивен",
+    "confidence": 0.88,
+    "dominant_emotion": "въодушевление"
+  },
+  "29625d3b0735beee535fa76af56c5af5850eb3bd9725744c5cb3ecaec000f2c8": {
+    "sentiment": "Позитивен",
+    "confidence": 0.86,
+    "dominant_emotion": "вдъхновение"
+  },
+  "81200e2ee0fc5e78cb625225f1c2f80e18fb3cab0052cb35fe7790de28c6c2f5": {
+    "sentiment": "Позитивен",
+    "confidence": 0.93,
+    "dominant_emotion": "вдъхновение"
+  },
+  "2823ca4983c001fe2edadc97f576c336cd0a9e65fc8f942998cd525b10d3b751": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "загриженост"
+  },
+  "03f608d2a3cc8c509101b9242beb89d4cbe1146e9ed61a165f0687c07f05cf9d": {
+    "sentiment": "Позитивен",
+    "confidence": 0.92,
+    "dominant_emotion": "радост"
+  },
+  "48d10c18885390c848ae20d499ffef6b521264e111f32d936ec9a91fa16baade": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "разочарование"
+  },
+  "c56dc627cba26813eab378083ec411f2c77cd6affb2b3f1e1ed1520b5015a610": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "благодарност"
+  },
+  "915900d5dca4ac36696d42dfc8ff4f315996f4559168f218f74f740f7200f6fe": {
+    "sentiment": "Позитивен",
+    "confidence": 0.92,
+    "dominant_emotion": "удоволствие"
+  },
+  "e22d95a50e5dc151eb627307e3f4ca9d259271544837abd375774ad80ed3408d": {
+    "sentiment": "Негативен",
+    "confidence": 0.98,
+    "dominant_emotion": "отчаяние"
+  },
+  "60aec5a63a66af0969f56e751f1a14fc48f25061bdb0ac8ac1613d8e541dac94": {
+    "sentiment": "Позитивен",
+    "confidence": 0.86,
+    "dominant_emotion": "възхищение"
+  },
+  "023a723769d5d5cbfd6ef1a640862ab725caef69635903c0623bad2b1a995ce2": {
+    "sentiment": "Негативен",
+    "confidence": 0.72,
+    "dominant_emotion": "разочарование"
+  },
+  "ef94dedbd4f98a406e013b5e33f9a9b50bde43fd9c23e0af39c6a65460e02b10": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "удоволствие"
+  },
+  "d893ce7538f844089e822af5a324b35d20b217eb6b94ef2cdae304585da55af8": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "578b510f1dfbe28bf683f81a06a8c8664a5b5c656e4c744f6915202769799d4a": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "fe93c23a865fd39600e44469907998f07942211043c89ce6c54ee85bfebd42a4": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "3f8d8b3c2454d0ce6cb531d9ecc4e6f1e16e1469d7363026f08c8399680f18ba": {
+    "sentiment": "Позитивен",
+    "confidence": 0.94,
+    "dominant_emotion": "любов"
+  },
+  "12fa544d5767a4c33157faf63ad9b8e0b062f8156f69c71cca3688ab1e630d3c": {
+    "sentiment": "Негативен",
+    "confidence": 0.95,
+    "dominant_emotion": "скръб"
+  },
+  "5cc370d60bf2ab034188a615fa22a05db3d131a2ae167b097ffb3d4922f08379": {
+    "sentiment": "Негативен",
+    "confidence": 0.92,
+    "dominant_emotion": "съжаление"
+  },
+  "f34998cd2fe78f3742210cf621bb41fd33cbbc6cf75cf66d3fa491185e58cc77": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "вдъхновение"
+  },
+  "f1eb68e95b41b93d70066125f63bfe902986663c8b79601c8c6cf8a91da54627": {
+    "sentiment": "Позитивен",
+    "confidence": 0.92,
+    "dominant_emotion": "възхищение"
+  },
+  "828d486f7cbb099ffefde26182fa5a2b55b6ac7868e852e3243d5a8abe8d4db9": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "информативност"
+  },
+  "051fc72748479c5f09faa6af26763c3af73a68a5117ac2dbcdb0baa1f9277d48": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "любопитство"
+  },
+  "13cddb3996eca1bb682cc50432fd879324045a119aa30644e40c9fd5de7c20ad": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "напрежение"
+  },
+  "2251d85912e413af8d82851ccbcf8ac34d0e8da39a33edc26a2a4dc7c322dc9d": {
+    "sentiment": "Позитивен",
+    "confidence": 0.93,
+    "dominant_emotion": "възхищение"
+  },
+  "110557ea22d6e435359f8b3366a1ac362ca04deaf3010a02247070e7ebf5b717": {
+    "sentiment": "Неутрален",
+    "confidence": 0.74,
+    "dominant_emotion": "неутралност"
+  },
+  "f6b2ba40b2e0172db37051a9dd9b102a85739887e769d54bd11e1e2e4dee15d6": {
+    "sentiment": "Неутрален",
+    "confidence": 0.88,
+    "dominant_emotion": "спокойствие"
+  },
+  "7e289530eaa4782bc7b866f2ba36c8af3afdf245ddcc5c30e33ec3eab74e0db7": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "спокойствие"
+  },
+  "3f9841bd44ac0694e87aa62ef6d9572117e5973b1df67fddd5e0be1ecbec4421": {
+    "sentiment": "Позитивен",
+    "confidence": 0.96,
+    "dominant_emotion": "възхищение"
+  },
+  "eea3db1c12e6ffe554c236110244aa18ba4d4440b4024e264b1e78cd474fa275": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "неодобрение"
+  },
+  "102beb476f0022dabec8aedf671babc46d5aac8d4e5c789a9c06a00d3f7a009e": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "възхищение"
+  },
+  "bd723f00a8bda3b2bccd1bcceaaf830b459bb271c1ee71742905ea47460477c5": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "вдъхновение"
+  },
+  "402bc560ff7470c6ae169abf9254831805af9f05bf1b9e2ff79518677da564ad": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "разочарование"
+  },
+  "9cb7e6deae54b9564227be628d7dc90c2b769d0811e5a5f98e71815c91143aa5": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "любопитство"
+  },
+  "a639acc96824bcd4645d0ad406bd753b10d48243393f2ea84b3f038e6c5cb7b6": {
+    "sentiment": "Негативен",
+    "confidence": 0.58,
+    "dominant_emotion": "разочарование"
+  },
+  "01daff26b2d7362c60b671996d5b2c03761825cf3b8cea9485f0a700ec9096c4": {
+    "sentiment": "Позитивен",
+    "confidence": 0.78,
+    "dominant_emotion": "възхищение"
+  },
+  "d87de66a7c5b58a8537901484f1288e283372e93a095bc123c4f5f43b27bf335": {
+    "sentiment": "Позитивен",
+    "confidence": 0.86,
+    "dominant_emotion": "възхищение"
+  },
+  "ac857fd621dfbdc96ad152da84b5fa5b9ef678b9815f447c801dc16439a36017": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "794cbe4d8fee06018776953cf3e48b51ef43dc00cef7ee861739fd89a03bed72": {
+    "sentiment": "Позитивен",
+    "confidence": 0.94,
+    "dominant_emotion": "радост"
+  },
+  "a9119df302fd7dc77925f31fcd83a7dc770fa64db076e4befaa0583b7012a0b8": {
+    "sentiment": "Позитивен",
+    "confidence": 0.88,
+    "dominant_emotion": "вдъхновение"
+  },
+  "0ae8856203c70c83ccf555bd21688a24d3771ea77df2dd20e5c07e71daecaa17": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "удоволствие"
+  },
+  "e63c85a350cd52e883e6ce202cf3bb976803195a671ea138e537c777fc7d43eb": {
+    "sentiment": "Негативен",
+    "confidence": 0.92,
+    "dominant_emotion": "разочарование"
+  },
+  "236773456c6ec338bd9f7f1f86d518da5b77c4c0feed5c6e2afb84e0846c250d": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "любопитство"
+  },
+  "8065e38078d03f40424222ab285a3b056a14ff8ff0d8d1b1c64083504547ed75": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "недоверие"
+  },
+  "5f0fa9c767d19e9207290a72877aa2c1e3883003247e899cccefc41b20a9ae7c": {
+    "sentiment": "Позитивен",
+    "confidence": 0.92,
+    "dominant_emotion": "радост"
+  },
+  "e5f1463d9e6886720abd0eb10a6d2524fda70a35cb8eb869ad437f50d409d856": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "спокойствие"
+  },
+  "ffa2fb2b40ed72bf041b8945df2306efad3121858431de2ed392b097d463e652": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "интерес"
+  },
+  "0e767cae9fbf2ad39aeddcc6ff5fa3c51a0afb14305ce03db12c6cd4e6ef7af0": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "1a5119e4519266d724ed87e90b1ec3a304425f9f3840c7be3181c2094638233b": {
+    "sentiment": "Позитивен",
+    "confidence": 0.88,
+    "dominant_emotion": "спокойствие"
+  },
+  "59747ada7ac743d4fea14f614a43ea946ddba9725e4c199dae584f7b61822ae8": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "загриженост"
+  },
+  "aa5c783da7c729db38f53f0290d6f2e38847254c482ede2e594a8ba72663b72b": {
+    "sentiment": "Позитивен",
+    "confidence": 0.86,
+    "dominant_emotion": "възхищение"
+  },
+  "bc803ef3f552056d1f9ae64e8610fa0d2366879ffb416ed7bfa71f5579ff49c8": {
+    "sentiment": "Позитивен",
+    "confidence": 0.94,
+    "dominant_emotion": "радост"
+  },
+  "4d1d7bc565aa0a867e8712582ddb2635067525fe91b0d22bc17b8a93a54aa8f7": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "възмущение"
+  },
+  "371f0ba8988b0b634eed2cb144e120fbd85ea2213b1f9b4e5038e52265e2a59f": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "обезпокоеност"
+  },
+  "aa4b36e9d4525d88a81aec80e7f0088ccf4f6bc4f67d814dff0f1effda9c0fe6": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "33459e111e4329b589b2786e39d8075c9646bc30d59f262037d65fedba50c677": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "разочарование"
+  },
+  "1cb58a0121987a0e5ac6c7d59c90a62d1b9164fbf075cc1da2275e108a0b1bfd": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "възмущение"
+  },
+  "2d2bbd1985ccab9486ce9f8a6f887ce0b41c7ac06f8a12a64707aff08a5f858a": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "недоверие"
+  },
+  "47ccd7816ce77ec2a0839b5b402e6fbbc6ca9cce6847267e8917bc4266fb0f83": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "тревога"
+  },
+  "63f62a2a127da72942a407777cc77397f5828d0d102e7dfc3d9ef9dec4bd989f": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "956ae035c783d3ba4f520dc4d2e899d2f9062404692b4af5c021c4ecaecce68b": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "8f989fa139ae61293bbc60b0b4da0218ffc680cd5785a6631cd82b1ae1fdc3b8": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "4e1114119daf2cb69cf3bcd4aaf54b755c37904e0670436873c75c1f1e8c87be": {
+    "sentiment": "Позитивен",
+    "confidence": 0.78,
+    "dominant_emotion": "оптимизъм"
+  },
+  "a73c099750812562fb147a041d60bf768ab5e9df60956c9380907fbb85ad3e3d": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "f26499e1fa7478e0ce9d07cf6b3094a82453daa83a7afc5375aed723e889cc66": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "тревога"
+  },
+  "b96f9e16981d3fc439517729d2beb757612df51d425a7c57988bdd5c7e0e8ffe": {
+    "sentiment": "Неутрален",
+    "confidence": 0.62,
+    "dominant_emotion": "настоятелност"
+  },
+  "cd9c27a23e01e02e8070ab07de6b8c5a5f08d58dfb6f3fe0c0ce5dfd55c91fe0": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "89ae94346825d67b8657b99a4ce87927b1707e4f5579d1f3f93eaede07fb1b2b": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "решителност"
+  },
+  "eefa990257ce2153c99dfa7d182f35aefded3b4c4717833f8c8e883f07f79e07": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "ce56ec9c565b935b4f9297242b7ab3a5c8ae5896fa43e889e3820f08ca4b809a": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "09eef3951eb2f9469d88d41373ae9b7912c29876ceeedb71b299b41c789ee97e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "спокойствие"
+  },
+  "740c5a045e994a745351e25c29aad5aeda84eb1d91f4392e68e92f30db26d7df": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "надежда"
+  },
+  "62ba93e2d31b64c26764e51cd4582ffe6bc28c30a22c9c2a3b80c2fed82ff797": {
+    "sentiment": "Негативен",
+    "confidence": 0.68,
+    "dominant_emotion": "недоволство"
+  },
+  "9c598704510ccaafa4b33cfc4633d1e9337dfd80df8395a4e12f5afd83ffdc10": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "d6a81779ac7fb0d9b894718c640fe4d08e44f6b7d188b5b418fd6c42499c5f41": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "7b684d7d978ac0e326e8c7a68d27d50a5b61868e7930e1a40c694db6f2088fc3": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "9756a2519e11435b8373a0759d2fe89783fe79e587cedbe9cdd8ffe97063b4b9": {
+    "sentiment": "Негативен",
+    "confidence": 0.84,
+    "dominant_emotion": "разочарование"
+  },
+  "99ad5cb30f0b29b3ca1ea3da9ba0784d4984b6232806fb433edd8afacf207aa8": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "ba0a55785c039b853aa899e9483adc552c7dab6c95c716d9ca9a18032162442e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "напрежение"
+  },
+  "715e315d539ebcdfd3b116d0b8adcb081a25d9a87419e09c37fdc583df534f99": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "несигурност"
+  },
+  "d22c0e0d13519b569926e6341bc47ad43813d44ec9bfac003e9e859a838e58e7": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "2bd35fa6b15a052b22a9756d36272100cb2692c078e81cfceb650d5a436ea166": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "неутралност"
+  },
+  "46e12eb3e0a3a0b01668f42c82ddc98ef9ea2862349a50f0a182a8b146856e7b": {
+    "sentiment": "Неутрален",
+    "confidence": 0.94,
+    "dominant_emotion": "спокойствие"
+  },
+  "c680d0a3ebdb11437aefae866c583e546fd4babb2172951ad9fbaad9e1c54ab5": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "0ab76b46f1236d27afd5ec7b16b6e9142829e2c4a1c7b27c47faeb1f15b6bd4d": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "54fed4cde3289ebc7c4893b42e57d559d5fbfe0d565ef5a017bf4a89fc905837": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "4159718ecbb01e6d953fdf4c86998ff3761f28fd3ddd38b7145bac42a1397ac2": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "спокойствие"
+  },
+  "7fb0d220a16e9f3cc8c7f09274fc78dd7513b978ca7ca3eb3d57157a222b9a17": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "любопитство"
+  },
+  "f01de5b662c66d32457dafc27d527c94662e7c62a3ef64dc262edb0338ac4360": {
+    "sentiment": "Позитивен",
+    "confidence": 0.9,
+    "dominant_emotion": "удовлетворение"
+  },
+  "6f8441925bc11516236f39b873d7d061c2d230b2649dd7e6bb8c83576c0b4484": {
+    "sentiment": "Неутрален",
+    "confidence": 0.9,
+    "dominant_emotion": "спокойствие"
+  },
+  "14d5cf4f0df018baee4b37bb5ab2bb8c8bf2de1847b9f98dc220140dba824177": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "3775db628404798a3c2c295393ee018afcca1c0c9c7d8aff89a00d69d457c09b": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "безпристрастност"
+  },
+  "c958fd1af769c928b2d3d1a19187cc191e02aad4652f9907135fc9dd30183bfe": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "1b9fd48940ffc395fd80271810c8a3107a8f4166dfa3ec0bca4d5d9a2981cfd9": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "75d9ee561ea0316c3b0a28928dc62a2a475321dff253917b99a416f7174fe9b4": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "напрежение"
+  },
+  "99da52103f3faa317ec008353909863ca7293ca1ce787187e8e5eb546a4a5127": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "8514004928c0e61d93883179eef320f530cdcf868bdbf5cba264052039352eac": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "12fdf3f6f1e2e1baeb4822c8adf964427d7c159ea7bcb9f6ccda5d5c2a26a2ab": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "a8b1b93d7bf101c45bb572a8911d1a969ea9c8c7e98d258b7be0da2c51ac86dd": {
+    "sentiment": "Негативен",
+    "confidence": 0.92,
+    "dominant_emotion": "гняв"
+  },
+  "94ba5699738186d65cc053d0390dbe80591257635306bab87a190e8352b5503a": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "недоволство"
+  },
+  "0a17b655ed44c1ede38a309474c36eb7f7a15bf0029b378a2aedd94e84470a3b": {
+    "sentiment": "Неутрален",
+    "confidence": 0.88,
+    "dominant_emotion": "информативност"
+  },
+  "1797368266a3d47cb675ca37d422ef51264b17cf881eebfc74615a0d37b66cf2": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "d646873db88ce73b8bf4b3e6864d47c7d591f0a6a5ccceb0791818d13b3457cb": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "497e83c1a0a290f698455d1b152ef8c299416f1716df2ef9846933f45217dbd8": {
+    "sentiment": "Неутрален",
+    "confidence": 0.88,
+    "dominant_emotion": "спокойствие"
+  },
+  "1b06e9d50002ff0686f3165e271f9e2a5723d8518a6723c28e04ffb94b3ed1e7": {
+    "sentiment": "Негативен",
+    "confidence": 0.72,
+    "dominant_emotion": "разочарование"
+  },
+  "da733d55e7df45b786b6804d344474503f5bc1735afd66fb31a99ccca170d43c": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "разочарование"
+  },
+  "ee4e369ba6abf9cab6e204becabbc84100e2d44d54fab482135bfaf75ebd02f8": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "4e033ce546a58b096ef144defc9a63380478515c258178392f7156480b6eb67f": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "спокойствие"
+  },
+  "08ad461e1707c4ffa4fab07ff5d2875dd4eb75ac11ba5d932f19004c6d0cbcf3": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "възмущение"
+  },
+  "f08a66af073729a16f9f997732046ffe46f2ce54a659e435774ad517aa331b8c": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "ирония"
+  },
+  "c12906790e946b82248e115bc535bbd0a135883298e819bf0c2061cae831be86": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "разочарование"
+  },
+  "66606e8092ff81129b535aa28d44fe85f9aab626df681f4af7182b772450fe7c": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "разочарование"
+  },
+  "3c4c41a1a7981e59435198eaa068b97f911c44fc4da4fc352d4e1feed53a8a14": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "6f487eaf6b8a78daa06813ca8b78e60d02dadb8240b898339781ac3e0bd28fde": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "6b7e9da93cd623163580e13e2e734b4f45d13e8047a262be5b687756db0307f9": {
+    "sentiment": "Неутрален",
+    "confidence": 0.74,
+    "dominant_emotion": "загриженост"
+  },
+  "1956a66c015d6a1d817882f983008210f36b338c2392215924b447749225e6a6": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "неутралност"
+  },
+  "9400f4dada6c80fa0192d1857221762a850ab15ce725c7a002533b2051dfaafa": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "неутралност"
+  },
+  "6ed7d585966eaed8cff182c879f8b48b29e613d84ef667f033525945478a2064": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "неутралност"
+  },
+  "33f8c11f5284c4c3178e156c755665610cc9b6fabca63b54b329901525e4c204": {
+    "sentiment": "Неутрален",
+    "confidence": 0.64,
+    "dominant_emotion": "огорчение"
+  },
+  "1ad786979767730f6c0fd30a161e1d3c7d467eba9a4ebc4f940b118b3f891426": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "5be5a2c14d1b7a361d818d181de6566bf9bcbd2090bf32f39412add79120675d": {
+    "sentiment": "Неутрален",
+    "confidence": 0.88,
+    "dominant_emotion": "спокойствие"
+  },
+  "fd0962cfc9ef989a9d4b8d5cacba5eaed56b0ab8e7f314e2d030e0b5ef7b9ac5": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "неутралност"
+  },
+  "ebf25207069ceb987d010ec0e635acb1db4c336215ee3b1a8295f007377fe880": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "a1ba734816a81cdc7cfffa63135ceffba98cb184d86216efca2c9373dc1278f2": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "1985788948578906595f1e54b9fce6a962b8cbaf5b4d974700416de5c6df3a5e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "501cc1e88be857fa03b331431cb00de7c87f923c3cdd1f017bd2d558995f912d": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "любопитство"
+  },
+  "d535c204e39d96f0a4a36a9de8887531e373079d4bd30d1819b10294d301c135": {
+    "sentiment": "Неутрален",
+    "confidence": 0.93,
+    "dominant_emotion": "спокойствие"
+  },
+  "468e70215192fde30b53d0ee013a94fc7987c0d0fda6506f380a77915efd76e6": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "любопитство"
+  },
+  "c99ded1a53f216f80eb95d88a6a2822f40cc509a1cb37c81403392e31474646d": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "5f33b4d7b0a9f7979fd1c369da2233245aac24677cd5c45058f8a4cd31a7e6b7": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "10c0765f5f8622f5142cec4912abb5b26d441943fbd57f7e611d483c746103f8": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "b6f63fb5c1a69827f7208619e88469b383b4c181a8420a4cfb3e044ae6fab732": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "разочарование"
+  },
+  "01d0dd5a8e90caf3ad97b2cbe8a28350792a98659f55cf57b8e310197f858ac3": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "загриженост"
+  },
+  "90f06283202e973e4408faf0ebd5e08453a23133dd83db4b75aa48b831111822": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "32cf803ebdf56d41191526dd7e61656de03e7627d444aa9758c0bb17933cc8a9": {
+    "sentiment": "Негативен",
+    "confidence": 0.84,
+    "dominant_emotion": "загриженост"
+  },
+  "9d36af6326ef07b2043bfae340fd8278390f5e1e54e030e17c7ac92583f7af70": {
+    "sentiment": "Неутрален",
+    "confidence": 0.9,
+    "dominant_emotion": "очакване"
+  },
+  "e144f0e3e1a53db2a5b87fd9ca0b7502e7b4394275bc137c6de0914c0ab86fc2": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "905681ca5342d2af302a9e1c05650af0a92e1847fe2dc3361b6db17dbf8b0c5c": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "разочарование"
+  },
+  "437c592f8b5381971011f7bea5f41935af21de17d720a86353db4359190675ca": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "възмущение"
+  },
+  "b860e33694ce1ed0378c5f3a5816e92206c88b81ad8573c411adc45b6a6d325e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "настойчивост"
+  },
+  "2d5fdfa0342669f749e472b26166d90e8b5716db74202629f8b777a024a7e863": {
+    "sentiment": "Позитивен",
+    "confidence": 0.88,
+    "dominant_emotion": "надежда"
+  },
+  "38fa5a2fb47f054bd6b81dad4f8d58c79e126305de59db71c5474b956d525e12": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "73a7e98703fb706f6440cac03a7a5eeea0f61709e36fb762a45f25c400654ff8": {
+    "sentiment": "Неутрален",
+    "confidence": 0.74,
+    "dominant_emotion": "загриженост"
+  },
+  "9f74f46168b1f2ba53fd46bc38afe435b0aa75bf8d51180c8751d5138bbe0c0d": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "aaf1b3007dc1bc903f644a7e4ed96e97dd9cc4a3fdc1633d858ce74f03b2d12a": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "неутралност"
+  },
+  "0ede7ba425aa24d67a050762c330158eee0fba5741aec1469b6db66afbff48d6": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "напрежение"
+  },
+  "7d7e23ea6bd7958dbccba9cf38c529050ff42ded3caa0a4b5cd47380aa334c65": {
+    "sentiment": "Негативен",
+    "confidence": 0.92,
+    "dominant_emotion": "разочарование"
+  },
+  "81608decf931a7f2965ede061379c4ba1095e2ad1327917d73823d22912bbb07": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "гняв"
+  },
+  "c911f2a34bf6dd5547cc326516fb6cccb6b991a7f4cbb67eec00096c4a7e22fb": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "безпристрастност"
+  },
+  "a209b42f90ef325ca9c327e5fa2b4e8af204fa5c6a48071ffac69cd5a418c39a": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "6978a00f2aea1e718e0399e6c86b47b9d57ef664159680e0a817701fe21d00c4": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "тревога"
+  },
+  "05656a2adfa96b1b4e9dbb9a7960662b65eff35b1b55e1c734cfd53a4c99c5ee": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "неутралност"
+  },
+  "6c6ae82be54053ecdeb38941494a04ad1ffe253ce5dbbd7072a1ecf51dda8caa": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "очакване"
+  },
+  "1f879eee3bbd1bfa7263b75bdbc6d66dd39eb1ae72f9b86df58c5d51f59565b0": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "спокойствие"
+  },
+  "ab589c4f4df36d8199fa337eea339ed815b30328ced3643d2f843aa2da6ae611": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "недоверие"
+  },
+  "608bfb72716a3370ebf1ee82f4e128e87c54b0e87e0fbe76c0bb89ab4434eb16": {
+    "sentiment": "Неутрален",
+    "confidence": 0.85,
+    "dominant_emotion": "любопитство"
+  },
+  "3e0fa7a45efd4b1effb2484f22acb9534ed789f390b08325f9f3004d4ba70fe5": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "разочарование"
+  },
+  "1d846b37a97b9d3da90162d3649b904494f16d63b0547aaedae72d5654b939ce": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "3da0d4866cfd6dcb3e79f4971214a7e879bce405692795fa726867891d07f7e3": {
+    "sentiment": "Позитивен",
+    "confidence": 0.78,
+    "dominant_emotion": "надежда"
+  },
+  "3d9cb70eb77906aac47ab9b29aa02154afe66f3ad9e8dd68bc6490f3db69360b": {
+    "sentiment": "Неутрален",
+    "confidence": 0.68,
+    "dominant_emotion": "изненада"
+  },
+  "e50292ebac56bca3947ce1b062c0de2d60dd91a63a337ebbba2e5431f6e3f170": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "надежда"
+  },
+  "3c5080973334d58d5c9d7f096dcd0653c7bb5fa2fb948970a1463927735724e9": {
+    "sentiment": "Позитивен",
+    "confidence": 0.76,
+    "dominant_emotion": "гордост"
+  },
+  "62e6eaabd5e8f51dc4c1f2f4969953487e0115be4a7aa05f1a2d6ed6011954d4": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "решителност"
+  },
+  "9625a4d40a3072605f37a6b9b931f93702e2bbf416144a18082ec1768a3d5345": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "изненада"
+  },
+  "e2d483bf57697bb431fbd3bb84a91ae7a7b09806d106fb6c7710384641fcb760": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "надежда"
+  },
+  "b504f73c0a285a96117b6eb250211e0611c421bdd0b111aff8fc431e581f7d19": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "34af8942cee5392d7ec10e0fa12fc335658d7b38ac6d7524a80574b305f1fbbb": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "загриженост"
+  },
+  "ed1385e1bca3cfdbed247a8242c9a5e834c516040563714cdd4e1b892749240e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "45ff0fc5642aa4597cb5bffd8d81b4859220f4236383c84730dd068e1ba4d03d": {
+    "sentiment": "Позитивен",
+    "confidence": 0.74,
+    "dominant_emotion": "надежда"
+  },
+  "29c87f7a69e07a032647d2de0c46f8ed0b9f551c968ad4fb068c8c3de8aa2b1c": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "решителност"
+  },
+  "f829932a4587fefe0b68d7140a1c889fe9f9306d396dfbb221e3357c94ba30c1": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "неутралност"
+  },
+  "a840a3a5e60419cd077dc9cb01f642d6b14b27c0c8924368be7900dd05fd2266": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "705300dfcaf23ab2f4dcdbf4ec3d0c4c8c86279aa878463f1e3dc7bd4fe0344c": {
+    "sentiment": "Неутрален",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "142fb56263938731bf4509f764e5b9e8eb57819f59acf2e81b76defbcdc359dd": {
+    "sentiment": "Позитивен",
+    "confidence": 0.72,
+    "dominant_emotion": "уважение"
+  },
+  "dc599778ff889322b70216256f37cf76a982583dab650e712fc58518cf2631a2": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "7648d10a2103f3ecab7b688517eccc9457273865c370e2787f612100eed31fb9": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "възмущение"
+  },
+  "28d0342e183dc6a12ee69f3d34e801bd83f081a46a0561d240e4ec732baaf855": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "разочарование"
+  },
+  "19b4c85490b735e1d9f52b8292d4cc2fd8a0ba35fdddc97af135a52960576ffe": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "безпристрастност"
+  },
+  "030f89b01822ff4282e2cf66a4a491fa55b63e1cd2e552c764eb2c43740538a6": {
+    "sentiment": "Неутрален",
+    "confidence": 0.94,
+    "dominant_emotion": "спокойствие"
+  },
+  "9b7830c30354a56569eee6d86c77530072fb48a3b7e1932bfe81b18cd8299a6a": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "3870a81a394d672a6954ea95d9627566bd49b69c34322a1fef3745ab8efdd805": {
+    "sentiment": "Негативен",
+    "confidence": 0.93,
+    "dominant_emotion": "тревога"
+  },
+  "136314258af8a964d23dcc6a8bbbadc1af1e3ad8bc4719710b03b6228ea6b69d": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "3980c56a91ac8c7c4e9cd58a3da5e230968545b2d7ea37d3faf14d719913a0c7": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "c2790d3c17f9c13fda385a93b63e16926df3b4a5746d7342c413327d468a8160": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "спокойствие"
+  },
+  "e6413110b4c81a8e63607cce052aeabc7151a5dcbaeda78180abd9e26626de46": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "тревога"
+  },
+  "a2b1370b2a34006ad31a0385498db2872d8c86ec1fb85aca449f43fc554820f9": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "неутралност"
+  },
+  "3806f96c75b0c6484bd9cb078fa9c69c48eb3435c3c987a39462e5c1426cfe39": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "недоволство"
+  },
+  "414daeeb5f617bbb8a70c0be2c3a40a8dc736156ec4f9d64f4838b017a17e580": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "недоволство"
+  },
+  "204183422daf61150e07ba5982a2fbf2f71aead16acd3dcd32447fd424ba3a71": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "8ae0b9c54eca0581def14ad0bd0c70957d761c037e4245688ae9099b17000911": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "тревога"
+  },
+  "efc6fdbac91b5aa6144afa464e0d6fb5633dbdeeec04cf12d727839b348e4d97": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "bbef496f3e3915a214d2d4ce1343d3b5ee04e18fe15b5612b4dd5272a4472811": {
+    "sentiment": "Негативен",
+    "confidence": 0.95,
+    "dominant_emotion": "тревога"
+  },
+  "662b3743abdf757d83732932ee966b2d4c1c135554131d587044439762262f09": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "714ece945a882aeabe4e0cb446ccd2df31cfa732e0fda87a3fd77582ac3d6487": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "5c95569fd7a29c788e1c52603c9a1ca6f2f7f36ad0e7c8b8063f8d682db418f0": {
+    "sentiment": "Неутрален",
+    "confidence": 0.74,
+    "dominant_emotion": "притеснение"
+  },
+  "5c090096dcf8b9e017da140009d341d2f80e7a48f6ff1a3b3439e4cedea2918e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "4ae1694b4d46992a5099608d6f8dbe0260d8b1fcfbb96f33a07d3a4f7ec2a2dd": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "спокойствие"
+  },
+  "1085c01e6f607ccc94af2d36b8b2f7e50d6bf47b5cb34760fb2f123f98e9eca4": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "c112d7045a87efe8931bd4ea1febb5141cc33847f30d0c09a360ca82e45a6c3b": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "тревога"
+  },
+  "844091ab78d1ed35cb7c6f6884775e6e5b6aaaaba0163de38a46669051ac46fa": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "неутралност"
+  },
+  "9be7fccf56416214d60baa19454d44648f4a3395e961e4c9da1c8a8f87a06eef": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "загриженост"
+  },
+  "11364433a949b64d6b14ae9f654e54ca4f257dc89c0aaca529d321aaa1c6948a": {
+    "sentiment": "Неутрален",
+    "confidence": 0.72,
+    "dominant_emotion": "загриженост"
+  },
+  "7cbd09a032b5482bf333786ff98946130edd55d66819808d288e0aa456423b81": {
+    "sentiment": "Неутрален",
+    "confidence": 0.96,
+    "dominant_emotion": "спокойствие"
+  },
+  "d6520945d5cca6a18878e00d8d722cc688a371b995462e3ac600ad9a3513774e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.95,
+    "dominant_emotion": "спокойствие"
+  },
+  "1bd2ccd039f7daa2261a57025796ac613a9459896653144d8956bd01a54e39d3": {
+    "sentiment": "Позитивен",
+    "confidence": 0.82,
+    "dominant_emotion": "оптимизъм"
+  },
+  "1bd38d077da51f1bce85a6918d684a92abc2b6162006e983cee7b32bbe039984": {
+    "sentiment": "Позитивен",
+    "confidence": 0.86,
+    "dominant_emotion": "оптимизъм"
+  },
+  "fb61447ff00f1f6a828e0e7249b40369bd81a642ec283dbc57a7152aa48de29e": {
+    "sentiment": "Негативен",
+    "confidence": 0.93,
+    "dominant_emotion": "възмущение"
+  },
+  "38c85607b172788518db5456024dd752f60131a7d9369d05df4645f48e8b4ace": {
+    "sentiment": "Негативен",
+    "confidence": 0.92,
+    "dominant_emotion": "гняв"
+  },
+  "efff32f4e110b11fb2503f4066472c62250564536bf4f04a54e96b40496b282e": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "спокойствие"
+  },
+  "41b2499c07a701e6a40eb88405b2ec99b925515a685e7203fcdf1ce4cc2f50f4": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "43b8db771a003bac8de3b532e65977c1bea996e96390c3a70cee824ec8ce6d92": {
+    "sentiment": "Негативен",
+    "confidence": 0.84,
+    "dominant_emotion": "тревога"
+  },
+  "3fe20e4bff9c20998a8b022b540739f85fcc0a49102c3405808bb41241aa88c8": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "обезпокоеност"
+  },
+  "d5e8b3d7535d9faed572efe9cd37ba54c830b61cb797e4f027b5246c46776e94": {
+    "sentiment": "Негативен",
+    "confidence": 0.78,
+    "dominant_emotion": "възмущение"
+  },
+  "c642687a1639aca44c72472fd26d441a7782dd512755b9062450afa9a642ba64": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "6ad992c185883445fd1a84eb49d638dda105abb0a19d37cae47deb6e2c8a851f": {
+    "sentiment": "Негативен",
+    "confidence": 0.88,
+    "dominant_emotion": "разочарование"
+  },
+  "e90679c3e92d6a69033a66971f9330f262c4d88855798bb2b67f96b4cd590634": {
+    "sentiment": "Неутрален",
+    "confidence": 0.86,
+    "dominant_emotion": "неутралност"
+  },
+  "02872bd817dcd6445ac1961dc1f35ed2f1ac1f313e857755cae00d2abba3c218": {
+    "sentiment": "Неутрален",
+    "confidence": 0.78,
+    "dominant_emotion": "напрежение"
+  },
+  "3cc5f704f6624d3fd36bddc0067df90f95cd5e5da503ddc6b7e54eea9804eaf1": {
+    "sentiment": "Неутрален",
+    "confidence": 0.92,
+    "dominant_emotion": "неутралност"
+  },
+  "efa12169c23b5496eec58adc9151ce8db8a5dfbd1b7aca756425a300446e7d18": {
+    "sentiment": "Негативен",
+    "confidence": 0.82,
+    "dominant_emotion": "разочарование"
+  },
+  "f3b7efd389714ab04197f5b92f45cb57f368fcf394331ec6b2beab1e12ddb7ba": {
+    "sentiment": "Негативен",
+    "confidence": 0.86,
+    "dominant_emotion": "разочарование"
+  },
+  "073fe151d2bb71f7f7427bbb221be68f3985b42a4639b13c096bb31a91084f60": {
+    "sentiment": "Негативен",
+    "confidence": 0.68,
+    "dominant_emotion": "напрежение"
+  },
+  "54bcacb235f23f5f423236a006c691d093581bfed89e45d9b5fe5565b02d26e0": {
+    "sentiment": "Негативен",
+    "confidence": 0.62,
+    "dominant_emotion": "напрежение"
+  }
+}
